@@ -1,3 +1,10 @@
+To build my version that supports a new config `platform`, 
+
+first do `gem install specific_install`
+
+then do `gem specific_install -l git@github.com:gyfelton/wraith.git`
+
+
 ![Wraith logo](https://raw.githubusercontent.com/BBC-News/wraith/master/assets/wraith-logo.png)
 
 [![build status](https://secure.travis-ci.org/BBC-News/wraith.png?branch=master)](http://travis-ci.org/BBC-News/wraith)
@@ -58,6 +65,7 @@ Please read [how to contribute to Wraith](https://github.com/BBC-News/wraith/blo
 Wraith is available to everyone under the terms of the Apache 2.0 open source license. [Take a look at Wraith's LICENSE file](https://github.com/BBC-News/wraith/blob/master/LICENSE).
 
 ## Credits
+
 
  * [Dave Blooman](https://twitter.com/dblooman)
  * [John Cleveley](https://twitter.com/jcleveley)
